@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#ff0000</color>
+    <color name="yellow">#fdfe29</color>
+    <color name="coral">#e95416</color>
+    <color name="coral_50">#80e95416</color>
+    <color name="light_salmon">#ffa07a</color>
+    <color name="green">#72c281</color>
+    <color name="orange">#e89210</color>
+    <color name="gold">#f8b62d</color>
+    <color name="gold_dark">#f39800</color>
+    <color name="blue">#0a9fe7</color>
+    <color name="light_cyan">#e0ffff</color>
+    <color name="cyan">#1bc3b2</color>
+    <color name="dark_cyan">#002b36</color>
+    <color name="dark_cyan_70">#b3002b36</color>
+    <color name="cyan_20">#331bc3b2</color>
+    <color name="cyan_50">#801bc3b2</color>
+
+    <color name="black">#ff000000</color>
+    <color name="black_5">#10000000</color>
+    <color name="black_15">#23000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_30">#4d000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_70">#b3000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="white_5">#10ffffff</color>
+    <color name="white_15">#23ffffff</color>
+    <color name="white_20">#33ffffff</color>
+    <color name="white_30">#4dffffff</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="white_60">#99ffffff</color>
+    <color name="white_70">#b3ffffff</color>
+</resources>

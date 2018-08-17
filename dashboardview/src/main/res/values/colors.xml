@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright(c) 2018 Habo Shen <ayst.shen@foxmail.com>
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~ http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <color name="colorPrimary">#ff000000</color>
+    <color name="colorPrimaryDark">#ff000000</color>
+    <color name="colorAccent">#2196F3</color>
+
+    <color name="bg">#ff000000</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="green">#29fd2f</color>
+    <color name="blue">#2196F3</color>
+    <color name="blue_50">#802196F3</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#fffc00</color>
+
+    <color name="black">#ff000000</color>
+    <color name="black_5">#10000000</color>
+    <color name="black_15">#23000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="black_30">#4d000000</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_70">#b3000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="white_5">#10ffffff</color>
+    <color name="white_15">#23ffffff</color>
+    <color name="white_20">#33ffffff</color>
+    <color name="white_30">#4dffffff</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="white_50">#80ffffff</color>
+    <color name="white_60">#99ffffff</color>
+    <color name="white_70">#b3ffffff</color>
+
+    <!-- blue_500 -->
+    <color name="connected">#2196F3</color>
+    <color name="connected_background">#616161</color>
+
+    <!-- grey_500 -->
+    <color name="channel">#9E9E9E</color>
+    <!-- cyan_500 -->
+    <color name="channel_number">#00BCD4</color>
+    <!-- cyan_700 -->
+    <color name="frequency">#0097A7</color>
+    <!-- blue_grey_500 -->
+    <color name="security">#607D8B</color>
+    <!-- teal_500 -->
+    <color name="distance">#009688</color>
+
+    <!-- grey_500 -->
+    <color name="icons_color">#9E9E9E</color>
+    <!-- red_500 -->
+    <color name="error_color">#F44336</color>
+    <!-- amber_500 -->
+    <color name="warning_color">#FFC107</color>
+    <!-- green_500 -->
+    <color name="success_color">#4CAF50</color>
+</resources>
