@@ -38,8 +38,8 @@ public class DashboardView extends View {
     // Second range color
     private int mSecondRangeColor = 0xfffffc00;
 
-    // Three range color
-    private int mThreeRangeColor = 0xff29fd2f;
+    // Third range color
+    private int mThirdRangeColor = 0xff29fd2f;
 
     // Start angle
     private int mStartAngle = 180;
@@ -149,7 +149,7 @@ public class DashboardView extends View {
 
         mFirstRangeColor = a.getColor(R.styleable.DashboardView_dbv_firstColor, mFirstRangeColor);
         mSecondRangeColor = a.getColor(R.styleable.DashboardView_dbv_secondColor, mSecondRangeColor);
-        mThreeRangeColor = a.getColor(R.styleable.DashboardView_dbv_threeColor, mThreeRangeColor);
+        mThirdRangeColor = a.getColor(R.styleable.DashboardView_dbv_thirdColor, mThirdRangeColor);
         mMax = a.getInteger(R.styleable.DashboardView_dbv_max, mMax);
         mMin = a.getInteger(R.styleable.DashboardView_dbv_min, mMin);
         mLineStrokeWidth = a.getDimension(R.styleable.DashboardView_dbv_lineWidth, mLineStrokeWidth);
@@ -298,11 +298,11 @@ public class DashboardView extends View {
         super.onDraw(canvas);
 
         /**
-         * Drawing three color arc
+         * Drawing third color arc
          */
         mPaint.setStyle(Paint.Style.STROKE);
         mPaint.setStrokeWidth(mColorStrokeWidth);
-        mPaint.setColor(mThreeRangeColor);
+        mPaint.setColor(mThirdRangeColor);
         canvas.drawArc(mRectFColorArc, mStartAngle, mSweepAngle, false, mPaint);
 
         /**

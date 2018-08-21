@@ -21,7 +21,7 @@
         <attr name="dbv_min" format="integer" />
         <attr name="dbv_firstColor" format="color" />
         <attr name="dbv_secondColor" format="color" />
-        <attr name="dbv_threeColor" format="color" />
+        <attr name="dbv_thirdColor" format="color" />
         <attr name="dbv_lineWidth" format="dimension" />
         <attr name="dbv_colorWidth" format="dimension" />
         <attr name="dbv_colorPadding" format="dimension" />

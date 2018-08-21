@@ -47,7 +47,7 @@ If you decide to use DashboardView as a view, you can define it in your xml layo
         android:layout_height="wrap_content"
         app:dbv_firstColor="@color/red"
         app:dbv_secondColor="@color/yellow"
-        app:dbv_threeColor="@color/green"
+        app:dbv_thirdColor="@color/green"
         app:dbv_max="0"
         app:dbv_min="-100"
         app:dbv_section="10"
@@ -77,7 +77,7 @@ NOTE:
 
 * `dbv_firstColor` - First range color
 * `dbv_secondColor` - Second range color
-* `dbv_threeColor` - Three range color
+* `dbv_thirdColor` - Third range color
 * `dbv_max` - Max value
 * `dbv_min` - Min value
 * `dbv_section` - Value range (mMax-mMin) equal parts

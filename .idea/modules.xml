@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DashboardView.iml" filepath="$PROJECT_DIR$/DashboardView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/example.iml" filepath="$PROJECT_DIR$/app/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://D:\code\MatrixView\example\app.iml" filepath="D:\code\MatrixView\example\app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dashboardview/matrixview.iml" filepath="$PROJECT_DIR$/dashboardview/matrixview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dashboardview/dashboardview.iml" filepath="$PROJECT_DIR$/dashboardview/dashboardview.iml" />
+      <module fileurl="file://D:\code\DashboardView\app\example.iml" filepath="D:\code\DashboardView\app\example.iml" />
+      <module fileurl="file://D:\code\DashboardView\dashboardview\matrixview.iml" filepath="D:\code\DashboardView\dashboardview\matrixview.iml" />
     </modules>
   </component>
 </project>
