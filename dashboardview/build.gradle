@@ -18,11 +18,11 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.jfrog.bintray'
 
-version = "1.5.0"
+version = "1.5.1"
 
 def siteUrl = 'https://github.com/aystshen/DashboardView'    // project homepage
 def gitUrl = 'https://github.com/aystshen/DashboardView.git' // project git
-group = "com.ayst.view"
+group = "com.ayst.dashboardview"
 
 android {
     compileSdkVersion 26
@@ -30,8 +30,8 @@ android {
     defaultConfig {
         minSdkVersion 18
         targetSdkVersion 26
-        versionCode 20
-        versionName "1.5.0"
+        versionCode 21
+        versionName "1.5.1"
 
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
