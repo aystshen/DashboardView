@@ -18,7 +18,7 @@ This is an Android dashboard View, like a mechanical dashboard such as a car. Su
 Add dependencies in build.gradle of your module:  
 
 	dependencies {
-		compile 'com.ayst.view:dashboardview:1.4.3'
+		compile 'com.ayst.dashboardview:dashboardview:1.5.1'
 	}
 
 ## Usage
@@ -41,7 +41,7 @@ Add dependencies in build.gradle of your module:
 ### XML Usage
 If you decide to use DashboardView as a view, you can define it in your xml layouts like this:
  
-	<com.ayst.view.DashboardView
+	<com.ayst.dashboardview.DashboardView
         android:id="@+id/dashboardview_1"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
