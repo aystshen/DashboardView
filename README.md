@@ -1,6 +1,6 @@
 # DashboardView
 
-[![](https://img.shields.io/badge/downloads-20k-brightgreen.svg)](https://bintray.com/hbshen/maven/DashboardView)
+[![Download](https://api.bintray.com/packages/hbshen/maven/DashboardView/images/download.svg) ](https://bintray.com/hbshen/maven/DashboardView/_latestVersion)
 [![](https://img.shields.io/badge/demo-1.0-orange.svg)](https://fir.im/dlx6)
 
 This is an Android dashboard View, like a mechanical dashboard such as a car. Support many custom styles.
@@ -18,7 +18,7 @@ This is an Android dashboard View, like a mechanical dashboard such as a car. Su
 Add dependencies in build.gradle of your module:  
 
 	dependencies {
-		compile 'com.ayst.dashboardview:dashboardview:1.5.1'
+		compile 'com.ayst.dbv:dashboardview:1.5.1'
 	}
 
 ## Usage

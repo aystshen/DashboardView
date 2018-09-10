@@ -3,7 +3,7 @@ package com.ayst.example.dashboardview;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.ayst.dashboardview.DashboardView;
+import com.ayst.dbv.DashboardView;
 
 public class MainActivity extends AppCompatActivity {
 

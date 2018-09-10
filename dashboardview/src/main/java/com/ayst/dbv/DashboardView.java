@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.ayst.dashboardview;
+package com.ayst.dbv;
 
 import android.content.Context;
 import android.content.res.Resources;

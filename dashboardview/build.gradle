@@ -22,7 +22,7 @@ version = "1.5.1"
 
 def siteUrl = 'https://github.com/aystshen/DashboardView'    // project homepage
 def gitUrl = 'https://github.com/aystshen/DashboardView.git' // project git
-group = "com.ayst.dashboardview"
+group = "com.ayst.dbv"
 
 android {
     compileSdkVersion 26
